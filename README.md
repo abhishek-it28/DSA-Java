@@ -1,69 +1,110 @@
 # DSA in Java 🚀
 
-This repository contains my solutions to **Striver's DSA Sheet** implemented in **Java**.
+This repository contains my solutions to **Striver's A2Z DSA Sheet** implemented in **Java**.
 
-I am solving problems regularly to strengthen my **Data Structures and Algorithms** skills for coding interviews and software engineering roles.
+I am solving problems regularly to strengthen my **Data Structures and Algorithms** skills and prepare for coding interviews and software engineering roles.
 
 ---
 
 ## 📚 Topics Covered
 
-- Arrays
-- Strings
-- Binary Search
-- Linked List
-- Stack & Queue
-- Trees
-- Graphs
-- Dynamic Programming
+* Basics & Mathematics
+* Sorting Techniques
+* Arrays
+* Binary Search
+* Strings
+* Linked List
+* Recursion
+* Bit Manipulation
+* Stack & Queue
+* Sliding Window & Two Pointer
+* Heaps
+* Greedy Algorithms
+* Binary Trees
+* Binary Search Trees
+* Graphs
+* Dynamic Programming
+* Tries
+
+The repository follows the structure of **Striver's A2Z DSA Sheet**, which currently contains **474 problems across 19 sections**.
 
 ---
 
 ## 🛠 Language
 
-- Java
+* Java
 
 ---
 
 ## 📂 Repository Structure
+
+```text
 DSA-Java
 │
+├── Basics
+├── Sorting
 ├── Arrays
-├── Strings
 ├── BinarySearch
+├── Strings
 ├── LinkedList
+├── Recursion
+├── BitManipulation
 ├── StackQueue
-├── Trees
+├── SlidingWindowTwoPointer
+├── Heaps
+├── Greedy
+├── BinaryTrees
+├── BinarySearchTrees
 ├── Graphs
-└── DynamicProgramming
+├── DynamicProgramming
+└── Tries
+```
 
-
-Each folder contains solutions implemented in **Java**.
+Each folder contains solutions implemented in **Java** following the topics and problem progression of Striver's A2Z DSA Sheet.
 
 ---
 
-## 🎯 Goal
+## 🎯 Goals
 
-- Solve **300+ DSA problems**
-- Master common **coding interview patterns**
-- Prepare for technical interviews
+* Solve **300+ DSA problems** initially
+* Eventually work through the complete **Striver A2Z Sheet**
+* Master common **DSA patterns and problem-solving techniques**
+* Improve coding and problem-solving skills
+* Prepare for **technical interviews and software engineering roles**
 
 ---
 
 ## 📈 Progress
 
-| Topic | Problems Solved |
-|------|----------------|
-| Arrays | 0 |
-| Strings | 0 |
-| Binary Search | 0 |
-| Linked List | 0 |
-| Stack & Queue | 0 |
-| Trees | 0 |
-| Graph | 0 |
-| Dynamic Programming | 0 |
+| Topic                        | Problems Solved |
+| ---------------------------- | --------------: |
+| Basics                       |               0 |
+| Sorting                      |               0 |
+| Arrays                       |               0 |
+| Binary Search                |               0 |
+| Strings                      |               0 |
+| Linked List                  |               0 |
+| Recursion                    |               0 |
+| Bit Manipulation             |               0 |
+| Stack & Queue                |               0 |
+| Sliding Window & Two Pointer |               0 |
+| Heaps                        |               0 |
+| Greedy                       |               0 |
+| Binary Trees                 |               0 |
+| Binary Search Trees          |               0 |
+| Graphs                       |               0 |
+| Dynamic Programming          |               0 |
+| Tries                        |               0 |
+| **Total**                    |           **0** |
 
-*(This will be updated as I solve more problems.)*
+*(This progress table will be updated regularly as I solve problems.)*
+
+---
+
+## 📌 Resource
+
+**Striver's A2Z DSA Sheet:**
+https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
 
 ---
 
@@ -71,6 +112,7 @@ Each folder contains solutions implemented in **Java**.
 
 **Abhishek Kumar**
 
-- Computer Science Student
-- Learning **Java, DSA, and Backend Development**
-- Currently practicing problems from Striver's DSA Sheet
+* Information Technology Student
+* Learning **Java, DSA, Full Stack Development, and AI/ML**
+* Currently practicing problems from **Striver's A2Z DSA Sheet**
+* Aspiring **AI Full Stack Engineer**
