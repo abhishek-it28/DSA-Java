@@ -4,7 +4,7 @@ This folder contains my solutions to Easy-level Array problems from Striver's A2
 
 ## Progress
 
-- Problems Solved: 0
+- Problems Solved: 1
 
 ## Goal
 
