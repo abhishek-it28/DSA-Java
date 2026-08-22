@@ -13,7 +13,7 @@ This folder contains my solutions and practice for Sorting Algorithms from Striv
 
 ## 📈 Progress
 
-- Problems Solved: 0
+- Problems Solved: 1
 
 ## 🎯 Goal
 
