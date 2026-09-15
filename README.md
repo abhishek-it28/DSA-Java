@@ -78,7 +78,7 @@ Each folder contains solutions implemented in **Java** following the topics and 
 
 | Topic                        | Problems Solved |
 | ---------------------------- | --------------: |
-| Basics                       |               0 |
+| Basics                       |               8 |
 | Sorting                      |               0 |
 | Arrays                       |               0 |
 | Binary Search                |               0 |
